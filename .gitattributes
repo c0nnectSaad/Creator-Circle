@@ -1,0 +1,6 @@
+# This project uses Next.js (built on JavaScript and TypeScript)
+
+
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.prisma linguist-language=Prisma
