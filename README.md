@@ -214,19 +214,6 @@ Contact {
 - Add relevant tags for discoverability
 - Write compelling meta descriptions for SEO
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Configure environment variables
-4. Deploy automatically
-
-### Other Platforms
-- **Netlify** - Static deployment with serverless functions
-- **Railway** - Full-stack deployment with database
-- **Heroku** - Container-based deployment
-
 ## 🤝 Contributing
 
 We welcome contributions from the creator community!
@@ -253,12 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built for the creator community
 - Inspired by the need for authentic content sharing
 - Thanks to all contributors and beta testers
-
-## 📞 Support
-
-- **Email**: support@creatorcircle.dev
-- **Issues**: [GitHub Issues](https://github.com/yourusername/creator-circle/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/creator-circle/discussions)
 
 ---
 
